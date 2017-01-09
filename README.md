@@ -1,4 +1,5 @@
-# downTree
+# downTree   
+
 downTree.js，jquery下拉选择树插件
 本插件基于jquery 和 [zTree](http://www.treejs.cn/v3/);
 
@@ -32,6 +33,6 @@ $(function(){
     $(".test").downTree(zNodes);
 })
 </script>
-```
+```   
 
-[demo](http://wuzhoubo.github.io/dist/downTree/demo)
+[demo](http://wuzhoubo.github.io/dist/downTree/demo/demo.html)
